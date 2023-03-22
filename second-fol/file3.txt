@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 this is head of file3 that was created in the main branch
-=======
 this is head of file3 that was created in the new-feature branch
->>>>>>> new-feature
+
 
 
 feature1
